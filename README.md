@@ -13,7 +13,7 @@ Boilerplate for ES6 project using Webpack, Babel with testing.
 - `yarn test`
 - `yarn test:watch` - watches files and reruns tests related to changes
 - `yarn test:watchAll` - watches files and reruns all tests on change
-- `yarn start` - starts Node server on port `3000`
+- `yarn start` - starts Node server on port `9000`
 
 ## .env
 

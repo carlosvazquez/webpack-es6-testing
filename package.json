@@ -34,7 +34,7 @@
     "build:dev": "webpack -d",
     "watch": "webpack -w",
     "lint": "./node_modules/.bin/eslint src/**",
-    "server": "webpack-dev-server",
+    "start:dev": "webpack-dev-server",
     "test": "cross-env NODE_ENV=test jest --config=jest.config.json",
     "test:watch": "cross-env NODE_ENV=test jest --watch --config=jest.config.json",
     "test:watchAll": "cross-env NODE_ENV=test jest --watchAll --config=jest.config.json",

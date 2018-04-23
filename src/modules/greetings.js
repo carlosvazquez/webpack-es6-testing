@@ -4,8 +4,8 @@
  * @return {String}
  */
 const sayHello = function(str) {
-  str = str || 'hellooooo!';
-  return `Say Hello says, of all things, ${str}`;
+  str = str || 'Hello!';
+  return `Say ${str}`;
 };
 
 module.exports = { sayHello };

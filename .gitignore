@@ -1,4 +1,4 @@
 node_modules/**
-dist/**
 public/dist/**
+!public/dist/.gitignore
 .env.*
